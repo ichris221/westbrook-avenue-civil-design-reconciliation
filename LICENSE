@@ -1,8 +1,10 @@
 CC0 1.0 Universal Public Domain Dedication
 
-Repository: westbrook-avenue-civil-design-reconciliation
-
-This repository and all files listed below are dedicated to the public domain under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
+The publisher of this repository states that the ten input files listed below are original synthetic materials prepared specifically for the Westbrook Avenue 
+Civil Design Reconciliation task. The files contain fictional municipal civil engineering records, synthetic station-control and survey data, fictional storm-
+network inspection logs, synthetic hydrology and rainfall-runoff calculations, fictional pavement core and deflection data, fictional geotechnical boring summaries, synthetic utility markout and conflict records, fictional RFIs and field change orders, fictional public complaint and flood-photo documentation, and synthetic city 
+design criteria excerpts. They are not copies of real municipal records, real survey files, real utility owner records, real engineering reports, real public 
+complaints, confidential project documents, copyrighted design standards, proprietary consultant files, employer records, or client data.
 
 Covered repository files:
 
@@ -16,13 +18,6 @@ Covered repository files:
 8. WBK_field_change_orders_and_RFIs.docx
 9. WBK_public_complaints_and_flood_photos.pdf
 10. WBK_city_design_criteria_excerpt.docx
-11. Westbrook_conflict_resolution_register.csv
-12. Westbrook_design_reconciliation_workbook.xlsx
-13. Westbrook_reconciled_civil_design_record.docx
-14. README.md
-15. LICENSE
-
-Unless otherwise stated, the prompt text, task description, conflict explanation, source data, supporting documentation, expected output specifications, and any repository documentation are also covered by CC0 1.0.
 
 Creative Commons Legal Code
 
