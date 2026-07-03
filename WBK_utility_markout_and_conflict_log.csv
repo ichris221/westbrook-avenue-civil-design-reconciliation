@@ -1,0 +1,40 @@
+source_id,record_date,utility_id,owner,utility_type,station_m,station_label,offset_m,diameter_mm,markout_method,horizontal_accuracy,depth_method,depth_m,top_elev_m,proposed_conflict_asset,proposed_invert_m,proposed_crown_or_bottom_m,required_vertical_clearance_m,calculated_clearance_m,status,utility_note
+UTIL-001,2026-05-21,W-200,City Water,water main,260,0+260.0,-2.3,200,as-built plus valve tie,B,record/markout,,,,,,0.3,,clearance not applicable,Routine utility record.
+UTIL-002,2026-05-21,T-DB,Metro Fiber,telecom duct bank,420,0+420.0,3.4,90,record drawing,B,record/markout,,,,,,0.3,,clearance not applicable,Routine utility record.
+UTIL-003,2026-05-21,E-13,GridCo,electric duct bank,510,0+510.0,-3.8,75,surface mark plus handhole,B,record/markout,,,,,,0.3,,clearance not applicable,Routine utility record.
+UTIL-004,2026-05-21,SAN-375,City Sewer,sanitary sewer,650,0+650.0,1.2,375,as-built plus manhole,B,record/markout,,,,,,0.3,,clearance not applicable,Routine utility record.
+UTIL-005,2026-05-21,STM-OLD,City Drainage,abandoned storm,730,0+730.0,-6.4,300,CCTV trace,B,record/markout,,,,,,0.3,,clearance not applicable,Routine utility record.
+UTIL-006,2026-05-21,W-150,City Water,water service,842,0+842.0,-1.8,150,pothole,B,confirmed pothole,1.28,101.078,,,,0.3,,depth confirmed,Routine utility record.
+UTIL-007,2026-05-21,TEL-4,Metro Fiber,telecom lateral,910,0+910.0,4.0,50,pothole,B,confirmed pothole,0.76,101.53,,,,0.3,,depth confirmed,Routine utility record.
+UTIL-008,2026-05-21,E-LT,GridCo,lighting conduit,1020,1+020.0,-5.2,50,surface mark,B,record/markout,,,,,,0.3,,clearance not applicable,Routine utility record.
+UTIL-020,2026-05-21,GAS-150-0820,NorthStar Gas,gas main,818.6,0+818.6,2.0,150,paint and flag,B,paint only,,,P-CB14-MH17 extension,101.54,101.99,0.3,,unresolved,Horizontal location marked; no depth or top elevation provided.
+UTIL-021,2026-05-22,GAS-150-0820,NorthStar Gas,gas main,820.1,0+820.1,2.1,150,paint and flag,B,paint only,,,P-CB14-MH17 extension,101.54,101.99,0.3,,unresolved,Gas owner record states depth must be verified by pothole before clearance calculation.
+UTIL-022,2026-05-22,GAS-150-0820,NorthStar Gas,gas main,820.1,0+820.1,2.1,150,profile assumption from design sheet,D,assumed cover,1.15,101.97,P-CB14-MH17 extension,101.54,101.99,0.3,-0.02,rejected assumption,"Assumed depth appears in preliminary profile, but it is not a confirmed utility depth."
+UTIL-023,2026-05-23,GAS-150-0807,NorthStar Gas,gas main,807.0,0+807.0,2.4,150,old pothole report,C,confirmed pothole,1.08,102.03,P-CB14-MH17 extension,101.56,102.01,0.3,0.02,not transferable,Old pothole is 13 m away and cannot be used to clear station 0+820.
+UTIL-024,2026-05-24,GAS-150-0820,NorthStar Gas,gas main,820.0,0+820.0,2.1,150,owner email,B,depth withheld,,,P-CB14-MH17 extension,101.54,101.99,0.3,,unresolved,Owner will not approve vertical clearance without exposure or vacuum excavation.
+UTIL-025,2026-05-26,GAS-150-0820,NorthStar Gas,gas main,820.0,0+820.0,2.1,150,pothole request,B,not completed,,,P-CB14-MH17 extension,101.54,101.99,0.3,,unresolved,Pothole was cancelled due to traffic control conflict; no replacement date logged.
+UTIL-026,2026-05-27,W-150-0825,City Water,water service,825.0,0+825.0,-1.2,150,pothole,A,confirmed pothole,1.31,101.8,P-CB14-MH17 extension,101.53,101.98,0.3,0.18,minor conflict,Water service clearance is below desired margin but has confirmed depth.
+UTIL-027,2026-05-28,UTIL-RND-27,NorthStar Gas,gas service,300,0+300.0,-2.9,150,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-028,2026-05-28,UTIL-RND-28,City Water,water service,338,0+338.0,3.6,50,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-029,2026-05-28,UTIL-RND-29,GridCo,electric conduit,376,0+376.0,-4.3,75,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-030,2026-05-28,UTIL-RND-30,Metro Fiber,telecom duct,414,0+414.0,1.5,100,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-031,2026-05-28,UTIL-RND-31,NorthStar Gas,gas service,452,0+452.0,-2.2,150,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-032,2026-05-28,UTIL-RND-32,City Water,water service,490,0+490.0,2.9,50,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-033,2026-05-28,UTIL-RND-33,GridCo,electric conduit,528,0+528.0,-3.6,75,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-034,2026-05-28,UTIL-RND-34,Metro Fiber,telecom duct,566,0+566.0,4.3,100,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-035,2026-05-28,UTIL-RND-35,NorthStar Gas,gas service,604,0+604.0,-1.5,150,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-036,2026-05-28,UTIL-RND-36,City Water,water service,642,0+642.0,2.2,50,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-037,2026-05-28,UTIL-RND-37,GridCo,electric conduit,680,0+680.0,-2.9,75,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-038,2026-05-28,UTIL-RND-38,Metro Fiber,telecom duct,718,0+718.0,3.6,100,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-039,2026-05-28,UTIL-RND-39,NorthStar Gas,gas service,756,0+756.0,-4.3,150,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-040,2026-05-28,UTIL-RND-40,City Water,water service,794,0+794.0,1.5,50,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-041,2026-05-28,UTIL-RND-41,GridCo,electric conduit,832,0+832.0,-2.2,75,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-042,2026-05-28,UTIL-RND-42,Metro Fiber,telecom duct,870,0+870.0,2.9,100,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-043,2026-05-28,UTIL-RND-43,NorthStar Gas,gas service,908,0+908.0,-3.6,150,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-044,2026-05-28,UTIL-RND-44,City Water,water service,946,0+946.0,4.3,50,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-045,2026-05-28,UTIL-RND-45,GridCo,electric conduit,984,0+984.0,-1.5,75,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-046,2026-05-28,UTIL-RND-46,Metro Fiber,telecom duct,1022,1+022.0,2.2,100,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-047,2026-05-28,UTIL-RND-47,NorthStar Gas,gas service,1060,1+060.0,-2.9,150,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-048,2026-05-28,UTIL-RND-48,City Water,water service,1098,1+098.0,3.6,50,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-049,2026-05-28,UTIL-RND-49,GridCo,electric conduit,1136,1+136.0,-4.3,75,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.
+UTIL-050,2026-05-28,UTIL-RND-50,Metro Fiber,telecom duct,1174,1+174.0,1.5,100,paint and record plan,C,record only,,,,,,0.3,,informational,No direct conflict with the CB-14 to MH-17 design profile.

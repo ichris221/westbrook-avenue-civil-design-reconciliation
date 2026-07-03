@@ -1,0 +1,51 @@
+source_id,inspection_date,asset_id,station_label,method,observed_diameter_mm,material,upstream_invert_m,downstream_invert_m,sediment_pct,blockage_pct,condition_grade,defect_or_findings,photo_or_clip_ref,reliability,inspection_conclusion
+INSP-001,2026-05-18,CB-01,0+025.0,field inlet inspection,375,precast concrete,,,10,0,2,No obstruction affecting barrel observed.,IMG-CB01,high,Serviceable.
+INSP-002,2026-05-18,CB-02,0+084.0,field inlet inspection,375,precast concrete,,,15,0,2,No obstruction affecting barrel observed.,IMG-CB02,high,Serviceable.
+INSP-003,2026-05-18,CB-03,0+138.0,field inlet inspection,375,precast concrete,,,20,0,2,No obstruction affecting barrel observed.,IMG-CB03,high,Serviceable.
+INSP-004,2026-05-18,CB-04,0+210.0,field inlet inspection,375,precast concrete,,,5,0,2,No obstruction affecting barrel observed.,IMG-CB04,high,Serviceable.
+INSP-005,2026-05-18,CB-05,0+276.0,field inlet inspection,375,precast concrete,,,10,0,2,No obstruction affecting barrel observed.,IMG-CB05,high,Serviceable.
+INSP-006,2026-05-18,CB-06,0+340.0,field inlet inspection,375,precast concrete,,,15,0,2,No obstruction affecting barrel observed.,IMG-CB06,high,Serviceable.
+INSP-007,2026-05-18,CB-07,0+405.0,field inlet inspection,375,precast concrete,,,20,0,2,No obstruction affecting barrel observed.,IMG-CB07,high,Serviceable.
+INSP-008,2026-05-18,CB-08,0+468.0,field inlet inspection,375,precast concrete,,,5,0,2,No obstruction affecting barrel observed.,IMG-CB08,high,Serviceable.
+INSP-009,2026-05-18,CB-09,0+525.0,field inlet inspection,375,precast concrete,,,10,0,2,No obstruction affecting barrel observed.,IMG-CB09,high,Serviceable.
+INSP-010,2026-05-18,CB-10,0+585.0,field inlet inspection,375,precast concrete,,,15,0,2,No obstruction affecting barrel observed.,IMG-CB10,high,Serviceable.
+INSP-011,2026-05-18,CB-11,0+640.0,field inlet inspection,375,precast concrete,,,20,0,2,No obstruction affecting barrel observed.,IMG-CB11,high,Serviceable.
+INSP-012,2026-05-18,CB-12,0+690.0,field inlet inspection,375,precast concrete,,,5,18,2,Debris at grate and sump measured by probe.,IMG-CB12,medium,Cleanout recommended.
+INSP-013,2026-05-18,CB-13,0+735.4,field inlet inspection,375,precast concrete,,,10,0,2,No obstruction affecting barrel observed.,IMG-CB13,high,Serviceable.
+INSP-014,2026-05-18,CB-14,0+760.0,field inlet inspection,450,precast concrete,,,15,35,2,Debris at grate and sump measured by probe.,IMG-CB14,medium,Cleanout recommended.
+INSP-015,2026-05-18,CB-15,0+820.0,field inlet inspection,450,precast concrete,,,20,18,2,Debris at grate and sump measured by probe.,IMG-CB15,medium,Cleanout recommended.
+INSP-016,2026-05-18,CB-16,0+875.0,field inlet inspection,450,precast concrete,,,5,0,2,No obstruction affecting barrel observed.,IMG-CB16,high,Serviceable.
+INSP-017,2026-05-18,CB-17,0+930.0,field inlet inspection,375,precast concrete,,,10,0,2,No obstruction affecting barrel observed.,IMG-CB17,high,Serviceable.
+INSP-018,2026-05-18,CB-18,0+985.0,field inlet inspection,375,precast concrete,,,15,0,2,No obstruction affecting barrel observed.,IMG-CB18,high,Serviceable.
+INSP-019,2026-05-18,CB-19,1+040.0,field inlet inspection,375,precast concrete,,,20,0,2,No obstruction affecting barrel observed.,IMG-CB19,high,Serviceable.
+INSP-020,2026-05-18,CB-20,1+095.0,field inlet inspection,375,precast concrete,,,5,0,2,No obstruction affecting barrel observed.,IMG-CB20,high,Serviceable.
+INSP-021,2026-05-18,CB-21,1+150.0,field inlet inspection,375,precast concrete,,,10,0,2,No obstruction affecting barrel observed.,IMG-CB21,high,Serviceable.
+INSP-022,2026-05-18,CB-22,1+205.0,field inlet inspection,375,precast concrete,,,15,0,2,No obstruction affecting barrel observed.,IMG-CB22,high,Serviceable.
+INSP-023,2026-05-18,CB-23,1+260.0,field inlet inspection,375,precast concrete,,,20,0,2,No obstruction affecting barrel observed.,IMG-CB23,high,Serviceable.
+INSP-024,2026-05-18,CB-24,1+325.0,field inlet inspection,375,precast concrete,,,5,0,2,No obstruction affecting barrel observed.,IMG-CB24,high,Serviceable.
+INSP-025,2026-05-18,CB-14,0+735.4,field inlet inspection,450,precast concrete,,101.835,10,35,3,Outlet barrel partly obscured by sediment and leaf mat; inlet ID painted as CI-14 on inside wall.,IMG-CB14-OUT,high,Asset identity is CB-14; CI-14 is legacy paint.
+INSP-026,2026-05-18,P-CB14-MH17,0+735.4 to 0+821.6,CCTV upstream run,450,RCP,101.835,101.552,12,0,2,CCTV chainage 86 m. Laser trace indicates approximately 0.33 percent grade.,CLIP-P14-01,high,Measured slope differs from hydrology profile slope 0.45 percent.
+INSP-027,2026-05-18,MH-17,0+821.6,manhole inspection,600,RCP,101.552,101.536,15,0,2,Incoming pipe from CB-14 measured near 101.55 m; outlet to trunk measured near 101.54 m.,IMG-MH17-INV,high,Field inverts conflict with GIS outlet invert 101.420 m.
+INSP-028,2026-05-18,MH-17-DWN,0+821.6 to 0+879.3,CCTV downstream run,600,RCP,101.536,101.414,8,0,2,"Downstream trunk is 600 mm RCP, not 525 mm as shown on 2018 utility composite.",CLIP-MH17-DWN,high,Use inspection diameter for downstream trunk condition.
+INSP-029,2026-05-18,CB-15,0+760.2,field inlet inspection,450,precast concrete,,101.906,5,10,2,Inlet tag CB-15A in 2025 field book; current asset is CB-15.,IMG-CB15,high,"Alias should be mapped, not treated as separate inlet."
+INSP-030,2026-05-19,CB-14,0+735.4,post-clean inspection,450,precast concrete,,101.836,2,0,1,Sediment removed; low point remains due to roadway geometry.,IMG-CB14-POST,high,Cleaning reduced blockage but did not change pipe slope or sag elevation.
+INSP-031,2026-05-19,MH-11,0+470.0,field structure inspection,525,RCP,102.127,102.077,8,0,1,Routine structure observation; no critical conflict in this record.,IMG-MH-11,medium,No design change noted.
+INSP-032,2026-05-19,MH-12,0+505.0,field structure inspection,525,RCP,102.096,102.046,11,0,1,Routine structure observation; no critical conflict in this record.,IMG-MH-12,medium,No design change noted.
+INSP-033,2026-05-19,MH-13,0+540.0,field structure inspection,525,RCP,102.064,102.014,14,0,2,Routine structure observation; no critical conflict in this record.,IMG-MH-13,medium,No design change noted.
+INSP-034,2026-05-19,MH-14,0+575.0,field structure inspection,525,RCP,102.032,101.983,17,0,1,Routine structure observation; no critical conflict in this record.,IMG-MH-14,medium,No design change noted.
+INSP-035,2026-05-19,MH-15,0+610.0,field structure inspection,525,RCP,102.001,101.951,5,0,1,Routine structure observation; no critical conflict in this record.,IMG-MH-15,medium,No design change noted.
+INSP-036,2026-05-19,MH-16,0+645.0,field structure inspection,525,RCP,101.969,101.919,8,0,2,Routine structure observation; no critical conflict in this record.,IMG-MH-16,medium,No design change noted.
+INSP-037,2026-05-19,MH-17,0+680.0,field structure inspection,525,RCP,101.938,101.888,11,0,1,Routine structure observation; no critical conflict in this record.,IMG-MH-17,medium,No design change noted.
+INSP-038,2026-05-19,MH-18,0+715.0,field structure inspection,525,RCP,101.906,101.856,14,0,1,Routine structure observation; no critical conflict in this record.,IMG-MH-18,medium,No design change noted.
+INSP-039,2026-05-19,PIPE-39,0+750.0,field structure inspection,525,RCP,101.875,101.825,17,0,2,Routine structure observation; no critical conflict in this record.,IMG-PIPE-39,medium,No design change noted.
+INSP-040,2026-05-19,PIPE-40,0+785.0,field structure inspection,525,RCP,101.843,101.793,5,0,1,Routine structure observation; no critical conflict in this record.,IMG-PIPE-40,medium,No design change noted.
+INSP-041,2026-05-19,PIPE-41,0+820.0,field structure inspection,525,RCP,101.812,101.762,8,0,1,Routine structure observation; no critical conflict in this record.,IMG-PIPE-41,medium,No design change noted.
+INSP-042,2026-05-19,PIPE-42,0+855.0,field structure inspection,525,RCP,101.781,101.731,11,0,2,Routine structure observation; no critical conflict in this record.,IMG-PIPE-42,medium,No design change noted.
+INSP-043,2026-05-19,PIPE-43,0+890.0,field structure inspection,600,RCP,101.749,101.699,14,0,1,Routine structure observation; no critical conflict in this record.,IMG-PIPE-43,medium,No design change noted.
+INSP-044,2026-05-19,PIPE-44,0+925.0,field structure inspection,600,RCP,101.718,101.668,17,0,1,Routine structure observation; no critical conflict in this record.,IMG-PIPE-44,medium,No design change noted.
+INSP-045,2026-05-19,PIPE-45,0+960.0,field structure inspection,600,RCP,101.686,101.636,5,0,2,Routine structure observation; no critical conflict in this record.,IMG-PIPE-45,medium,No design change noted.
+INSP-046,2026-05-19,PIPE-46,0+995.0,field structure inspection,600,RCP,101.654,101.605,8,0,1,Routine structure observation; no critical conflict in this record.,IMG-PIPE-46,medium,No design change noted.
+INSP-047,2026-05-19,PIPE-47,1+030.0,field structure inspection,600,RCP,101.623,101.573,11,0,1,Routine structure observation; no critical conflict in this record.,IMG-PIPE-47,medium,No design change noted.
+INSP-048,2026-05-19,PIPE-48,1+065.0,field structure inspection,600,RCP,101.591,101.541,14,0,2,Routine structure observation; no critical conflict in this record.,IMG-PIPE-48,medium,No design change noted.
+INSP-049,2026-05-19,PIPE-49,1+100.0,field structure inspection,600,RCP,101.56,101.51,17,0,1,Routine structure observation; no critical conflict in this record.,IMG-PIPE-49,medium,No design change noted.
+INSP-050,2026-05-19,PIPE-50,1+135.0,field structure inspection,600,RCP,101.528,101.478,5,0,1,Routine structure observation; no critical conflict in this record.,IMG-PIPE-50,medium,No design change noted.

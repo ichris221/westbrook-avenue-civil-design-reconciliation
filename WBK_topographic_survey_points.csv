@@ -1,0 +1,136 @@
+source_id,survey_date,survey_control,point_id,asset_id,station_m,station_label,offset_m,point_type,elevation_m,invert_elevation_m,running_slope_pct,cross_slope_pct,quality_code,survey_note
+SV-001,2026-05-16,SC-2026-REV-B,GUT-L-001,road-left-gutter,0,0+000.0,-4.2,gutter-shot,104.1,,,,A,Continuous level loop closure 0.007 m.
+SV-002,2026-05-16,SC-2026-REV-B,CL-002,road-crown,0,0+000.0,0.0,crown-shot,104.155,,,,A,Crown shot used for crossfall check only.
+SV-003,2026-05-16,SC-2026-REV-B,GUT-L-003,road-left-gutter,25,0+025.0,-4.2,gutter-shot,104.113,,,,A,Continuous level loop closure 0.007 m.
+SV-004,2026-05-16,SC-2026-REV-B,CL-004,road-crown,25,0+025.0,0.0,crown-shot,104.168,,,,A,Crown shot used for crossfall check only.
+SV-005,2026-05-16,SC-2026-REV-B,GUT-L-005,road-left-gutter,50,0+050.0,-4.2,gutter-shot,104.123,,,,A,Continuous level loop closure 0.007 m.
+SV-006,2026-05-16,SC-2026-REV-B,CL-006,road-crown,50,0+050.0,0.0,crown-shot,104.178,,,,A,Crown shot used for crossfall check only.
+SV-007,2026-05-16,SC-2026-REV-B,GUT-L-007,road-left-gutter,75,0+075.0,-4.2,gutter-shot,104.127,,,,A,Continuous level loop closure 0.007 m.
+SV-008,2026-05-16,SC-2026-REV-B,CL-008,road-crown,75,0+075.0,0.0,crown-shot,104.182,,,,A,Crown shot used for crossfall check only.
+SV-009,2026-05-16,SC-2026-REV-B,GUT-L-009,road-left-gutter,100,0+100.0,-4.2,gutter-shot,104.121,,,,A,Continuous level loop closure 0.007 m.
+SV-010,2026-05-16,SC-2026-REV-B,CL-010,road-crown,100,0+100.0,0.0,crown-shot,104.176,,,,A,Crown shot used for crossfall check only.
+SV-011,2026-05-16,SC-2026-REV-B,GUT-L-011,road-left-gutter,125,0+125.0,-4.2,gutter-shot,104.105,,,,A,Continuous level loop closure 0.007 m.
+SV-012,2026-05-16,SC-2026-REV-B,CL-012,road-crown,125,0+125.0,0.0,crown-shot,104.16,,,,A,Crown shot used for crossfall check only.
+SV-013,2026-05-16,SC-2026-REV-B,GUT-L-013,road-left-gutter,150,0+150.0,-4.2,gutter-shot,104.077,,,,A,Continuous level loop closure 0.007 m.
+SV-014,2026-05-16,SC-2026-REV-B,CL-014,road-crown,150,0+150.0,0.0,crown-shot,104.132,,,,A,Crown shot used for crossfall check only.
+SV-015,2026-05-16,SC-2026-REV-B,GUT-L-015,road-left-gutter,175,0+175.0,-4.2,gutter-shot,104.037,,,,A,Continuous level loop closure 0.007 m.
+SV-016,2026-05-16,SC-2026-REV-B,CL-016,road-crown,175,0+175.0,0.0,crown-shot,104.092,,,,A,Crown shot used for crossfall check only.
+SV-017,2026-05-16,SC-2026-REV-B,GUT-L-017,road-left-gutter,200,0+200.0,-4.2,gutter-shot,103.985,,,,A,Continuous level loop closure 0.007 m.
+SV-018,2026-05-16,SC-2026-REV-B,CL-018,road-crown,200,0+200.0,0.0,crown-shot,104.04,,,,A,Crown shot used for crossfall check only.
+SV-019,2026-05-16,SC-2026-REV-B,GUT-L-019,road-left-gutter,225,0+225.0,-4.2,gutter-shot,103.922,,,,A,Continuous level loop closure 0.007 m.
+SV-020,2026-05-16,SC-2026-REV-B,CL-020,road-crown,225,0+225.0,0.0,crown-shot,103.977,,,,A,Crown shot used for crossfall check only.
+SV-021,2026-05-16,SC-2026-REV-B,GUT-L-021,road-left-gutter,250,0+250.0,-4.2,gutter-shot,103.85,,,,A,Continuous level loop closure 0.007 m.
+SV-022,2026-05-16,SC-2026-REV-B,CL-022,road-crown,250,0+250.0,0.0,crown-shot,103.905,,,,A,Crown shot used for crossfall check only.
+SV-023,2026-05-16,SC-2026-REV-B,GUT-L-023,road-left-gutter,275,0+275.0,-4.2,gutter-shot,103.773,,,,A,Continuous level loop closure 0.007 m.
+SV-024,2026-05-16,SC-2026-REV-B,CL-024,road-crown,275,0+275.0,0.0,crown-shot,103.828,,,,A,Crown shot used for crossfall check only.
+SV-025,2026-05-16,SC-2026-REV-B,GUT-L-025,road-left-gutter,300,0+300.0,-4.2,gutter-shot,103.692,,,,A,Continuous level loop closure 0.007 m.
+SV-026,2026-05-16,SC-2026-REV-B,CL-026,road-crown,300,0+300.0,0.0,crown-shot,103.747,,,,A,Crown shot used for crossfall check only.
+SV-027,2026-05-16,SC-2026-REV-B,GUT-L-027,road-left-gutter,325,0+325.0,-4.2,gutter-shot,103.612,,,,A,Continuous level loop closure 0.007 m.
+SV-028,2026-05-16,SC-2026-REV-B,CL-028,road-crown,325,0+325.0,0.0,crown-shot,103.667,,,,A,Crown shot used for crossfall check only.
+SV-029,2026-05-16,SC-2026-REV-B,GUT-L-029,road-left-gutter,350,0+350.0,-4.2,gutter-shot,103.535,,,,A,Continuous level loop closure 0.007 m.
+SV-030,2026-05-16,SC-2026-REV-B,CL-030,road-crown,350,0+350.0,0.0,crown-shot,103.59,,,,A,Crown shot used for crossfall check only.
+SV-031,2026-05-16,SC-2026-REV-B,GUT-L-031,road-left-gutter,375,0+375.0,-4.2,gutter-shot,103.464,,,,A,Continuous level loop closure 0.007 m.
+SV-032,2026-05-16,SC-2026-REV-B,CL-032,road-crown,375,0+375.0,0.0,crown-shot,103.519,,,,A,Crown shot used for crossfall check only.
+SV-033,2026-05-16,SC-2026-REV-B,GUT-L-033,road-left-gutter,400,0+400.0,-4.2,gutter-shot,103.402,,,,A,Continuous level loop closure 0.007 m.
+SV-034,2026-05-16,SC-2026-REV-B,CL-034,road-crown,400,0+400.0,0.0,crown-shot,103.457,,,,A,Crown shot used for crossfall check only.
+SV-035,2026-05-16,SC-2026-REV-B,GUT-L-035,road-left-gutter,425,0+425.0,-4.2,gutter-shot,103.351,,,,A,Continuous level loop closure 0.007 m.
+SV-036,2026-05-16,SC-2026-REV-B,CL-036,road-crown,425,0+425.0,0.0,crown-shot,103.406,,,,A,Crown shot used for crossfall check only.
+SV-037,2026-05-16,SC-2026-REV-B,GUT-L-037,road-left-gutter,450,0+450.0,-4.2,gutter-shot,103.313,,,,A,Continuous level loop closure 0.007 m.
+SV-038,2026-05-16,SC-2026-REV-B,CL-038,road-crown,450,0+450.0,0.0,crown-shot,103.368,,,,A,Crown shot used for crossfall check only.
+SV-039,2026-05-16,SC-2026-REV-B,GUT-L-039,road-left-gutter,475,0+475.0,-4.2,gutter-shot,103.286,,,,A,Continuous level loop closure 0.007 m.
+SV-040,2026-05-16,SC-2026-REV-B,CL-040,road-crown,475,0+475.0,0.0,crown-shot,103.341,,,,A,Crown shot used for crossfall check only.
+SV-041,2026-05-16,SC-2026-REV-B,GUT-L-041,road-left-gutter,500,0+500.0,-4.2,gutter-shot,103.272,,,,A,Continuous level loop closure 0.007 m.
+SV-042,2026-05-16,SC-2026-REV-B,CL-042,road-crown,500,0+500.0,0.0,crown-shot,103.327,,,,A,Crown shot used for crossfall check only.
+SV-043,2026-05-16,SC-2026-REV-B,GUT-L-043,road-left-gutter,525,0+525.0,-4.2,gutter-shot,103.268,,,,A,Continuous level loop closure 0.007 m.
+SV-044,2026-05-16,SC-2026-REV-B,CL-044,road-crown,525,0+525.0,0.0,crown-shot,103.323,,,,A,Crown shot used for crossfall check only.
+SV-045,2026-05-16,SC-2026-REV-B,GUT-L-045,road-left-gutter,550,0+550.0,-4.2,gutter-shot,103.272,,,,A,Continuous level loop closure 0.007 m.
+SV-046,2026-05-16,SC-2026-REV-B,CL-046,road-crown,550,0+550.0,0.0,crown-shot,103.327,,,,A,Crown shot used for crossfall check only.
+SV-047,2026-05-16,SC-2026-REV-B,GUT-L-047,road-left-gutter,575,0+575.0,-4.2,gutter-shot,103.283,,,,A,Continuous level loop closure 0.007 m.
+SV-048,2026-05-16,SC-2026-REV-B,CL-048,road-crown,575,0+575.0,0.0,crown-shot,103.338,,,,A,Crown shot used for crossfall check only.
+SV-049,2026-05-16,SC-2026-REV-B,GUT-L-049,road-left-gutter,600,0+600.0,-4.2,gutter-shot,103.296,,,,A,Continuous level loop closure 0.007 m.
+SV-050,2026-05-16,SC-2026-REV-B,CL-050,road-crown,600,0+600.0,0.0,crown-shot,103.351,,,,A,Crown shot used for crossfall check only.
+SV-051,2026-05-16,SC-2026-REV-B,GUT-L-051,road-left-gutter,625,0+625.0,-4.2,gutter-shot,103.309,,,,A,Continuous level loop closure 0.007 m.
+SV-052,2026-05-16,SC-2026-REV-B,CL-052,road-crown,625,0+625.0,0.0,crown-shot,103.364,,,,A,Crown shot used for crossfall check only.
+SV-053,2026-05-16,SC-2026-REV-B,GUT-L-053,road-left-gutter,650,0+650.0,-4.2,gutter-shot,103.318,,,,A,Continuous level loop closure 0.007 m.
+SV-054,2026-05-16,SC-2026-REV-B,CL-054,road-crown,650,0+650.0,0.0,crown-shot,103.373,,,,A,Crown shot used for crossfall check only.
+SV-055,2026-05-16,SC-2026-REV-B,GUT-L-055,road-left-gutter,675,0+675.0,-4.2,gutter-shot,103.321,,,,A,Continuous level loop closure 0.007 m.
+SV-056,2026-05-16,SC-2026-REV-B,CL-056,road-crown,675,0+675.0,0.0,crown-shot,103.376,,,,A,Crown shot used for crossfall check only.
+SV-057,2026-05-16,SC-2026-REV-B,GUT-L-057,road-left-gutter,700,0+700.0,-4.2,gutter-shot,103.314,,,,A,Continuous level loop closure 0.007 m.
+SV-058,2026-05-16,SC-2026-REV-B,CL-058,road-crown,700,0+700.0,0.0,crown-shot,103.369,,,,A,Crown shot used for crossfall check only.
+SV-059,2026-05-16,SC-2026-REV-B,GUT-L-059,road-left-gutter,725,0+725.0,-4.2,gutter-shot,103.297,,,,A,Continuous level loop closure 0.007 m.
+SV-060,2026-05-16,SC-2026-REV-B,CL-060,road-crown,725,0+725.0,0.0,crown-shot,103.367,,,,A,Crown shot used for crossfall check only.
+SV-061,2026-05-16,SC-2026-REV-B,GUT-L-061,road-left-gutter,750,0+750.0,-4.2,gutter-shot,103.267,,,,A,Continuous level loop closure 0.007 m.
+SV-062,2026-05-16,SC-2026-REV-B,CL-062,road-crown,750,0+750.0,0.0,crown-shot,103.337,,,,A,Crown shot used for crossfall check only.
+SV-063,2026-05-16,SC-2026-REV-B,GUT-L-063,road-left-gutter,775,0+775.0,-4.2,gutter-shot,103.226,,,,A,Continuous level loop closure 0.007 m.
+SV-064,2026-05-16,SC-2026-REV-B,CL-064,road-crown,775,0+775.0,0.0,crown-shot,103.281,,,,A,Crown shot used for crossfall check only.
+SV-065,2026-05-16,SC-2026-REV-B,GUT-L-065,road-left-gutter,800,0+800.0,-4.2,gutter-shot,103.172,,,,A,Continuous level loop closure 0.007 m.
+SV-066,2026-05-16,SC-2026-REV-B,CL-066,road-crown,800,0+800.0,0.0,crown-shot,103.227,,,,A,Crown shot used for crossfall check only.
+SV-067,2026-05-16,SC-2026-REV-B,GUT-L-067,road-left-gutter,825,0+825.0,-4.2,gutter-shot,103.108,,,,A,Continuous level loop closure 0.007 m.
+SV-068,2026-05-16,SC-2026-REV-B,CL-068,road-crown,825,0+825.0,0.0,crown-shot,103.163,,,,A,Crown shot used for crossfall check only.
+SV-069,2026-05-16,SC-2026-REV-B,GUT-L-069,road-left-gutter,850,0+850.0,-4.2,gutter-shot,103.035,,,,A,Continuous level loop closure 0.007 m.
+SV-070,2026-05-16,SC-2026-REV-B,CL-070,road-crown,850,0+850.0,0.0,crown-shot,103.09,,,,A,Crown shot used for crossfall check only.
+SV-071,2026-05-16,SC-2026-REV-B,GUT-L-071,road-left-gutter,875,0+875.0,-4.2,gutter-shot,102.957,,,,A,Continuous level loop closure 0.007 m.
+SV-072,2026-05-16,SC-2026-REV-B,CL-072,road-crown,875,0+875.0,0.0,crown-shot,103.012,,,,A,Crown shot used for crossfall check only.
+SV-073,2026-05-16,SC-2026-REV-B,GUT-L-073,road-left-gutter,900,0+900.0,-4.2,gutter-shot,102.876,,,,A,Continuous level loop closure 0.007 m.
+SV-074,2026-05-16,SC-2026-REV-B,CL-074,road-crown,900,0+900.0,0.0,crown-shot,102.931,,,,A,Crown shot used for crossfall check only.
+SV-075,2026-05-16,SC-2026-REV-B,GUT-L-075,road-left-gutter,925,0+925.0,-4.2,gutter-shot,102.796,,,,A,Continuous level loop closure 0.007 m.
+SV-076,2026-05-16,SC-2026-REV-B,CL-076,road-crown,925,0+925.0,0.0,crown-shot,102.851,,,,A,Crown shot used for crossfall check only.
+SV-077,2026-05-16,SC-2026-REV-B,GUT-L-077,road-left-gutter,950,0+950.0,-4.2,gutter-shot,102.72,,,,A,Continuous level loop closure 0.007 m.
+SV-078,2026-05-16,SC-2026-REV-B,CL-078,road-crown,950,0+950.0,0.0,crown-shot,102.775,,,,A,Crown shot used for crossfall check only.
+SV-079,2026-05-16,SC-2026-REV-B,GUT-L-079,road-left-gutter,975,0+975.0,-4.2,gutter-shot,102.65,,,,A,Continuous level loop closure 0.007 m.
+SV-080,2026-05-16,SC-2026-REV-B,CL-080,road-crown,975,0+975.0,0.0,crown-shot,102.705,,,,A,Crown shot used for crossfall check only.
+SV-081,2026-05-16,SC-2026-REV-B,GUT-L-081,road-left-gutter,1000,1+000.0,-4.2,gutter-shot,102.589,,,,A,Continuous level loop closure 0.007 m.
+SV-082,2026-05-16,SC-2026-REV-B,CL-082,road-crown,1000,1+000.0,0.0,crown-shot,102.644,,,,A,Crown shot used for crossfall check only.
+SV-083,2026-05-16,SC-2026-REV-B,GUT-L-083,road-left-gutter,1025,1+025.0,-4.2,gutter-shot,102.54,,,,A,Continuous level loop closure 0.007 m.
+SV-084,2026-05-16,SC-2026-REV-B,CL-084,road-crown,1025,1+025.0,0.0,crown-shot,102.595,,,,A,Crown shot used for crossfall check only.
+SV-085,2026-05-16,SC-2026-REV-B,GUT-L-085,road-left-gutter,1050,1+050.0,-4.2,gutter-shot,102.503,,,,A,Continuous level loop closure 0.007 m.
+SV-086,2026-05-16,SC-2026-REV-B,CL-086,road-crown,1050,1+050.0,0.0,crown-shot,102.558,,,,A,Crown shot used for crossfall check only.
+SV-087,2026-05-16,SC-2026-REV-B,GUT-L-087,road-left-gutter,1075,1+075.0,-4.2,gutter-shot,102.478,,,,A,Continuous level loop closure 0.007 m.
+SV-088,2026-05-16,SC-2026-REV-B,CL-088,road-crown,1075,1+075.0,0.0,crown-shot,102.533,,,,A,Crown shot used for crossfall check only.
+SV-089,2026-05-16,SC-2026-REV-B,GUT-L-089,road-left-gutter,1100,1+100.0,-4.2,gutter-shot,102.465,,,,A,Continuous level loop closure 0.007 m.
+SV-090,2026-05-16,SC-2026-REV-B,CL-090,road-crown,1100,1+100.0,0.0,crown-shot,102.52,,,,A,Crown shot used for crossfall check only.
+SV-091,2026-05-16,SC-2026-REV-B,GUT-L-091,road-left-gutter,1125,1+125.0,-4.2,gutter-shot,102.462,,,,A,Continuous level loop closure 0.007 m.
+SV-092,2026-05-16,SC-2026-REV-B,CL-092,road-crown,1125,1+125.0,0.0,crown-shot,102.517,,,,A,Crown shot used for crossfall check only.
+SV-093,2026-05-16,SC-2026-REV-B,GUT-L-093,road-left-gutter,1150,1+150.0,-4.2,gutter-shot,102.467,,,,A,Continuous level loop closure 0.007 m.
+SV-094,2026-05-16,SC-2026-REV-B,CL-094,road-crown,1150,1+150.0,0.0,crown-shot,102.522,,,,A,Crown shot used for crossfall check only.
+SV-095,2026-05-16,SC-2026-REV-B,GUT-L-095,road-left-gutter,1175,1+175.0,-4.2,gutter-shot,102.478,,,,A,Continuous level loop closure 0.007 m.
+SV-096,2026-05-16,SC-2026-REV-B,CL-096,road-crown,1175,1+175.0,0.0,crown-shot,102.533,,,,A,Crown shot used for crossfall check only.
+SV-097,2026-05-16,SC-2026-REV-B,GUT-L-097,road-left-gutter,1200,1+200.0,-4.2,gutter-shot,102.492,,,,A,Continuous level loop closure 0.007 m.
+SV-098,2026-05-16,SC-2026-REV-B,CL-098,road-crown,1200,1+200.0,0.0,crown-shot,102.547,,,,A,Crown shot used for crossfall check only.
+SV-099,2026-05-16,SC-2026-REV-B,GUT-L-099,road-left-gutter,1225,1+225.0,-4.2,gutter-shot,102.504,,,,A,Continuous level loop closure 0.007 m.
+SV-100,2026-05-16,SC-2026-REV-B,CL-100,road-crown,1225,1+225.0,0.0,crown-shot,102.559,,,,A,Crown shot used for crossfall check only.
+SV-101,2026-05-16,SC-2026-REV-B,GUT-L-101,road-left-gutter,1250,1+250.0,-4.2,gutter-shot,102.513,,,,A,Continuous level loop closure 0.007 m.
+SV-102,2026-05-16,SC-2026-REV-B,CL-102,road-crown,1250,1+250.0,0.0,crown-shot,102.568,,,,A,Crown shot used for crossfall check only.
+SV-103,2026-05-16,SC-2026-REV-B,GUT-L-103,road-left-gutter,1275,1+275.0,-4.2,gutter-shot,102.515,,,,A,Continuous level loop closure 0.007 m.
+SV-104,2026-05-16,SC-2026-REV-B,CL-104,road-crown,1275,1+275.0,0.0,crown-shot,102.57,,,,A,Crown shot used for crossfall check only.
+SV-105,2026-05-16,SC-2026-REV-B,GUT-L-105,road-left-gutter,1300,1+300.0,-4.2,gutter-shot,102.507,,,,A,Continuous level loop closure 0.007 m.
+SV-106,2026-05-16,SC-2026-REV-B,CL-106,road-crown,1300,1+300.0,0.0,crown-shot,102.562,,,,A,Crown shot used for crossfall check only.
+SV-107,2026-05-16,SC-2026-REV-B,GUT-L-107,road-left-gutter,1325,1+325.0,-4.2,gutter-shot,102.488,,,,A,Continuous level loop closure 0.007 m.
+SV-108,2026-05-16,SC-2026-REV-B,CL-108,road-crown,1325,1+325.0,0.0,crown-shot,102.543,,,,A,Crown shot used for crossfall check only.
+SV-109,2026-05-16,SC-2026-REV-B,GUT-L-109,road-left-gutter,1350,1+350.0,-4.2,gutter-shot,102.457,,,,A,Continuous level loop closure 0.007 m.
+SV-110,2026-05-16,SC-2026-REV-B,CL-110,road-crown,1350,1+350.0,0.0,crown-shot,102.512,,,,A,Crown shot used for crossfall check only.
+SV-111,2026-05-16,SC-2026-REV-B,GUT-L-111,road-left-gutter,1375,1+375.0,-4.2,gutter-shot,102.414,,,,A,Continuous level loop closure 0.007 m.
+SV-112,2026-05-16,SC-2026-REV-B,CL-112,road-crown,1375,1+375.0,0.0,crown-shot,102.469,,,,A,Crown shot used for crossfall check only.
+SV-113,2026-05-16,SC-2026-REV-B,GUT-L-113,road-left-gutter,1400,1+400.0,-4.2,gutter-shot,102.359,,,,A,Continuous level loop closure 0.007 m.
+SV-114,2026-05-16,SC-2026-REV-B,CL-114,road-crown,1400,1+400.0,0.0,crown-shot,102.414,,,,A,Crown shot used for crossfall check only.
+SV-115,2026-05-16,SC-2026-REV-B,CB14-RIM,CB-14,735.4,-5.8,rim,103.028,,,A,Signed field book page 7. Legacy map rounded station to 0+730.
+SV-116,2026-05-16,SC-2026-REV-B,CB14-INVOUT,CB-14,735.4,-5.8,invert-out,102.998,101.832,,,A,450 mm outlet toward MH-17; level rod reading checked twice.
+SV-117,2026-05-16,SC-2026-REV-B,CB14-GUTTER-LOW,SAG-0735,735.0,-0.6,gutter-low,103.018,,,A,Lowest gutter shot on southbound lane; used for ponding depth.
+SV-118,2026-05-16,SC-2026-REV-B,CB15-RIM,CB-15,760.2,5.6,rim,103.042,,,A,Alias CB-15A in 2025 drawings.
+SV-119,2026-05-16,SC-2026-REV-B,CB15-INVOUT,CB-15,760.2,5.6,invert-out,103.042,101.904,,,A,Outlet to MH-17 branch.
+SV-120,2026-05-16,SC-2026-REV-B,MH17-RIM,MH-17,821.6,0.0,rim,103.192,,,A,Rim elevation from closed level loop.
+SV-121,2026-05-16,SC-2026-REV-B,MH17-INV-CB14,MH-17,821.6,0.0,invert-in,103.192,101.548,,,A,Incoming 450 mm pipe from CB-14.
+SV-122,2026-05-16,SC-2026-REV-B,MH17-INV-DWN,MH-17,821.6,0.0,invert-out,103.192,101.532,,,A,Outlet to downstream trunk; conflicts with GIS invert 101.420.
+SV-123,2026-05-16,SC-2026-REV-B,MH18-INV-IN,MH-18,879.3,0.0,invert-in,103.084,101.409,,,B,Downstream trunk invert; CCTV confirms 600 mm RCP.
+SV-124,2026-05-16,SC-2026-REV-B,MH17-CTR,MH-17,821.6,0.0,center,103.192,,,A,Use with CB14-CTR for plan length.
+SV-125,2026-05-16,SC-2026-REV-B,CB14-CTR,CB-14,735.4,-5.8,center,103.028,,,A,Plan length to MH-17 centerline = 86.2 m by stationing.
+SV-126,2026-05-16,SC-2026-REV-B,NE-PINE-BOT,RAMP-NE-PINE,512.8,-7.4,ramp-bottom,104.002,,4.8,2.7,A,Cross slope exceeds 2 percent on bottom panel.
+SV-127,2026-05-16,SC-2026-REV-B,NE-PINE-MID,RAMP-NE-PINE,512.9,-7.2,ramp-mid,104.048,,5.1,2.6,A,Measured across panel width after ponding complaint.
+SV-128,2026-05-16,SC-2026-REV-B,NE-PINE-LAND,RAMP-NE-PINE,513.0,-7.0,landing,104.087,,1.6,2.4,A,Landing cross slope exceeds 2 percent.
+SV-129,2026-05-16,SC-2026-REV-B,SW-PINE-BOT,RAMP-SW-PINE,514.2,6.8,ramp-bottom,103.928,,8.9,1.5,A,Running slope exceeds 8.33 percent.
+SV-130,2026-05-16,SC-2026-REV-B,SW-PINE-MID,RAMP-SW-PINE,514.3,6.9,ramp-mid,104.016,,9.1,1.7,A,Running slope exceeds 8.33 percent.
+SV-131,2026-05-16,SC-2026-REV-B,SW-PINE-LAND,RAMP-SW-PINE,514.5,7.0,landing,104.092,,1.8,1.8,A,Landing within cross-slope criterion.
+SV-132,2026-05-17,SC-2026-REV-B,GAS-MARK-820A,GAS-150-0820,819.7,2.1,paint-mark,103.118,,,B,Horizontal paint mark only; no depth from survey.
+SV-133,2026-05-17,SC-2026-REV-B,GAS-MARK-820B,GAS-150-0820,821.4,2.2,paint-mark,103.122,,,B,Gas owner did not authorize depth interpolation from old pothole.
+SV-134,2026-05-17,SC-2026-REV-B,BUS-GUT-818,BUS-STOP-SB-0820,818.2,-4.7,gutter-shot,103.084,,,A,Local gutter depression at bus stop.
+SV-135,2026-05-17,SC-2026-REV-B,BUS-GUT-824,BUS-STOP-SB-0820,824.0,-4.8,gutter-shot,103.089,,,A,Not same low point as station 0+735.
